@@ -1,0 +1,4 @@
+{
+    "image": "docker/dev-environments-go:stable-1",
+    "remoteUser": "vscode"
+}
