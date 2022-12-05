@@ -1,4 +1,5 @@
 {
     "image": "docker/dev-environments-go:stable-1",
-    "remoteUser": "vscode"
+    "remoteUser": "vscode",
+    "postCreateCommand": "yarn install"
 }
