@@ -1,13 +1,5 @@
 {
     "image": "node:16",
     "remoteUser": "root",
-    "postCreateCommand": "yarn install",
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "Gruntfuggly.todo-tree",
-                "invalidIdHEHE"
-            ]
-        }
-    }
+    "postCreateCommand": "yarn install"
 }
