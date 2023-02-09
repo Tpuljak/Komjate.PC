@@ -1,6 +1,6 @@
 {
     "image": "node:16",
-    "remoteUser": "vscode",
+    "remoteUser": "root",
     "postCreateCommand": "yarn install",
     "customizations": {
         "vscode": {
